@@ -1,6 +1,6 @@
-# Testing Website
+# Testing This Website
 
-Hi, my name is Luca Jones. I'm a Canadian Deaf gamer and Techie enthusiastic.
+Hi, my name is Luca Jones. I'm a Canadian Deaf gamer and Techie enthusiastic. I am testing the website.
 
 ## Skills
 1. HTML/CSS
