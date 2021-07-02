@@ -1,5 +1,7 @@
 # Testing Website
 
+Hi, my name is Luca Jones. I'm a Canadian Deaf gamer and Techie enthusiastic.
+
 ## Skills
 1. HTML/CSS
 2. C#
@@ -9,5 +11,6 @@
 6. Batch
 
 ## Portfolios
-1. ASLL Booket Website
-2. Weather Screen
+1. ASL Booket (Website)
+2. Weather Screen (Website)
+3. Milo (Discord Bot)
