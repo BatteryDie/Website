@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8" />
+        <title>BatteryDie</title>
+        <link href="https://fonts.googleapis.com/css?family=Nunito|Nunito+Sans|Rubik:900|IBM+Plex+Mono:400,400i|IBM+Plex+Sans+Condensed:400,400i|IBM+Plex+Sans:100,100i,400,400i,700,700i|IBM+Plex+Serif:400,400i" rel="stylesheet">
+        <style>
+        body { background-image: url(bg.png); background-attachment: fixed; background-repeat: repeat;}
+        .center {   position: absolute; left: 50%; top: 50%; -webkit-transform: translate(-50%, -50%); transform: translate(-50%, -50%); }
+        .title { font-family: 'Rubik', sans-serif; color: aliceblue; font-size: 50pt; width: 820px; height: auto; text-align: center;  text-shadow: 2px 2px 4px #000000;}
+        p { font-family: 'Nunito', sans-serif; color: aliceblue; font-size: 25pt; width: 820px; height: auto; padding-bottom: 10pt; text-align: center;  text-shadow: 2px 2px 4px #000000; }
+        .button { text-decoration: none; font-family: 'Nunito', sans-serif; font-size: 20px; border: 1px solid darkred; display:block; padding: 10px; background-color: red; color: white;  box-shadow: 0 3px 6px rgba(0, 0, 0, 0.16), 0 3px 6px rgba(0, 0, 0, 0.23); }
+        .button:link { color: white; }
+        .button:visited { color: white; }
+        .button:hover { color: black;  background-color: orange}
+        .button:active { color: white; background-color: black; }
+    </style>
+	<script type="text/JavaScript">
+	<!-- //
+		var num=0;
+		setInterval(function(){
+			num--;
+			num %= 256;
+			document.body.style.backgroundPosition=-num+"px "+-num+"px";
+		},25);
+	// -->
+	</script>
+    </head>
+    <body>
+        <div class="center">
+            <div class="title">My name's Luca Jones.<br>Nice to meet you!</div>
+            <p>a Canadian Deaf Techie enthusiastic and gamer. Writes code for fun.</p>
+            <a class="button" href="https://twitter.com/batterydie">🐦 Twitter</a><br>
+            <a class="button" href="https://www.youtube.com/channel/UCDbDLlPMKLd5A6vzBPe8jfQ">📼 YouTube</a><br>
+            <a class="button" href="https://www.twitch.tv/batterydie">🎥 Twitch</a><br>
+            <a class="button" href="https://github.com/BatteryDie">🧑‍💻 Github</a>
+        </div>
+    </body>
+</html> 
